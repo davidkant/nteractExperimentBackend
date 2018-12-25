@@ -3,3 +3,4 @@ timidity
 graphviz
 freepats
 tree
+libfluidsynth1
