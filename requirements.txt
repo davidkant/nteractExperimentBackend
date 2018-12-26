@@ -1,2 +1,0 @@
-abjad>=2.21
-abjad_ext_ipython

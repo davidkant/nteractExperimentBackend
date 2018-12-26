@@ -1,0 +1,18 @@
+name: music-ai
+channels: 
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - librosa
+  - keras
+  - tensorflow
+  - rise
+  - pip:
+    - abjad>=2.21
+    - abjad_ext_ipython
+    - essentia
+    - pretty_midi
+    - pyfluidsynth
+    - -e git://github.com/davidkant/mai#egg=mai
