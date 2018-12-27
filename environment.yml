@@ -12,6 +12,7 @@ dependencies:
   - pip:
     - abjad>=2.21
     - abjad_ext_ipython
+    - abjad_ext_nauert
     - essentia
     - pretty_midi
     - pyfluidsynth
